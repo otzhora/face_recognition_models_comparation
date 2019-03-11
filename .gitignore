@@ -2,3 +2,4 @@
 __pycache__
 .ipynb_checkpoints
 shape_predictor_68_face_landmarks.dat
+vgg_face_weights.h5
